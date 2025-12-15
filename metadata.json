@@ -1,0 +1,8 @@
+{
+  "name": "이프맨 스토리보드 생성기",
+  "description": "상황에 맞춰 이프맨 또는 다른 대상을 자동으로 판단하여 카툰 스타일로 그려주는 도구입니다. (Gemini 2.5 Flash Image 기반)",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
